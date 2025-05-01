@@ -1,0 +1,200 @@
+model_version,company
+gpt-4o,OpenAI
+gpt-4,OpenAI
+llama-3,Meta
+claude-3.5-sonnet,Anthropic
+o1,Other
+llama-3-70b,Meta
+deepseek-r1,DeepSeek
+mistral-7b,Mistral
+claude-3-opus,Anthropic
+gemini-1.5-pro,Google DeepMind
+gpt-3.5,OpenAI
+mixtral,Mistral
+gemini,Google DeepMind
+deepseek-v3,DeepSeek
+o1-preview,Other
+claude-3,Anthropic
+gpt-4-turbo,OpenAI
+chatgpt,OpenAI
+llama-3-8b,Meta
+gpt-4o-mini,OpenAI
+claude,Anthropic
+llama-3-1,Meta
+claude-3-sonnet,Anthropic
+o3,Other
+gpt-4.5,OpenAI
+llama-3-1-405b,Meta
+gemini-1.5,Google DeepMind
+gemini-2.5-pro,Google DeepMind
+o3-mini,Other
+gpt-5,OpenAI
+qwen-2.5,Alibaba
+claude-3.5,Anthropic
+gemini-pro,Other
+grok-3,xAI
+o1-mini,Other
+claude-3.7-sonnet,Anthropic
+gemini-1.5-flash,Google DeepMind
+claude-3-haiku,Anthropic
+mixtral-8x7b,Mistral
+llama-3-2,Meta
+gemma-2,Google
+gpt-3.5-turbo,OpenAI
+gemini-2.0-flash,Google DeepMind
+gpt-4.1,OpenAI
+o4-mini,Other
+llama-cpp,Other
+mistral,Mistral
+llama-2,Meta
+gemma-3,Google
+claude-3.5-haiku,Anthropic
+phi-3,Microsoft
+llama-2-70b,Meta
+mistral-large,Other
+mistral-medium,Other
+gpt-2,OpenAI
+gemini-ultra,Other
+gpt-3,OpenAI
+stable-diffusion-3,Stability AI
+imagen-3,Google
+llama-3-405b,Meta
+llama-2-7b,Meta
+llama-3-1-8b,Meta
+gemma-2b,Google
+deepseek-coder-v2,Other
+llama,Meta
+qwen-2,Alibaba
+llama-3.1,Meta
+claude-2.1,Anthropic
+bard,Google
+deepseek-v3-0324,DeepSeek
+grok-3-mini,xAI
+gpt-4o-2024-08-06,OpenAI
+o3-mini-high,Other
+claude-3.7,Anthropic
+gpt-3.5-turbo-0613,OpenAI
+qwen-2.5-vl,Alibaba
+deepseek-v2,DeepSeek
+claude-3-7-sonnet,Anthropic
+mistral-large-2,Other
+llama-3-1-70b,Meta
+jamba-1.5,AI21 Labs
+gemma-7b,Google
+llama-3.1-70b,Meta
+qwq-32b,Other
+sora,Other
+gemma-2-2b,Google
+dall-e-3,OpenAI
+phi-4,Microsoft
+grok-2,xAI
+gemini-2.0-pro,Google DeepMind
+gemini-2.5-flash,Google DeepMind
+opus,Other
+gemini-advanced,Other
+gemma,Google
+qwen-2.5-max,Alibaba
+dbrx,Databricks
+chatgpt-4o,OpenAI
+llama-3.1-8b,Meta
+miqumaid,Other
+mamba-2,Princeton/Meta
+gemini-2.0-flash-thinking,Google DeepMind
+phi-3.5,Microsoft
+flux-1,Not classified
+llamaindex,LlamaIndex Team
+veo,Google DeepMind
+phi-2,Microsoft
+chameleon-7b,Other
+llava,Visual Language Model (varied)
+stable-diffusion-3.5,Stability AI
+gemma-2-9b,Google
+gemma-2-27b,Google
+miqu-70b,Miqu
+qwen-1.5,Alibaba
+gemma-3-27b,Google
+claude-3-5-sonnet,Anthropic
+llama-3-400b,Meta
+qwen-72b,Alibaba
+claude-3-5,Anthropic
+gemini-exp-1206,Other
+mamba,Princeton/Meta
+stable-diffusion-1.5,Stability AI
+command-r,Other
+phi-3-mini,Microsoft
+qlora,Berkeley
+mistral-nemo-12b,NVIDIA
+dall-e,OpenAI
+nemotron-4-340b,NVIDIA
+sam-2,Meta
+o1-pro,Other
+llama-4,Meta
+phi-4-multimodal,Microsoft
+gpt-4-0613,OpenAI
+cosxl,Cohere
+prime,Not classified
+tulu-3,Allen AI (AI2)
+qwen,Alibaba
+llama-3-2-vision,Meta
+alphafold-3,DeepMind
+cogvideox,Tencent
+vllm,Open-source community
+deepseek-v2.5,DeepSeek
+olmo-7b,AI2
+llama-3-120b,Meta
+vasa-1,Microsoft
+jamba,AI21 Labs
+smollm2,Not classified
+qwen-2.5-32b,Alibaba
+alphageometry-2,Google DeepMind
+reka-core,Other
+llama-3.1-405b,Meta
+exllamav2,ExLLaMA
+stable-diffusion,Stability AI
+pixtral-12b,Not classified
+miqu,Miqu
+llama-2-70b-instruct,Meta
+claude-opus,Other
+openhermes-2.5,OpenHermes
+devin,Cognition AI
+inflection-2.5,Inflection AI
+sonnet-3.5,Anthropic
+command-r7b,Cohere
+embed-3,OpenAI
+llama-8b,Meta
+openelm,Apple
+nemotron,NVIDIA
+bitnet-b1.58,ByteDance
+sdxl,Stability AI
+grok-1,xAI
+solar-10.7b,Upstage
+miqu-1-70b,Miqu
+openhermes-2.5-mistral-7b,OpenHermes
+mixtral-7b,Mistral
+mistral-8x22b,Mistral
+mistral-next,Other
+minimax-01,MiniMax
+llama-3.3-70b,Meta
+mixtral-8x22b,Mistral
+qwen-32b,Alibaba
+command-r-plus,Other
+molmo,Other
+sky-t1-32b-preview,Other
+nemotron-70b,NVIDIA
+qwen2.5-coder-32b-instruct,Other
+deepseek-r1-distilled-qwen-1.5b,DeepSeek
+gpt-4.1-nano,OpenAI
+moondream,HuggingFace
+llama-2-7b-chat,Meta
+llama-3-2-3b,Meta
+xlstm,Not classified
+mistral-small-3,Other
+grok,xAI
+llama-4-maverick,Meta
+gemini-2.0,Google DeepMind
+hermes-2.5,Nous Research
+veo-2,Google DeepMind
+claude-2,Anthropic
+phi,Microsoft
+palm2,Other
+gpt-4.1-mini,OpenAI
